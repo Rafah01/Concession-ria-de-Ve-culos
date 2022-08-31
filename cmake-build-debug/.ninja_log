@@ -1,0 +1,17 @@
+# ninja log v5
+4	1295	6824045825196102	CMakeFiles/Projeto_POO.dir/main.cpp.obj	cbf6ce83808e267c
+18	2530	6824031938459660	CMakeFiles/Projeto_POO.dir/Veiculos.cpp.obj	473827c2b70aeb76
+24	1015	6824033471772240	CMakeFiles/Projeto_POO.dir/Pedido.cpp.obj	a3590d3a2c3e24fd
+10	1417	6824038988515589	CMakeFiles/Projeto_POO.dir/Cliente.cpp.obj	493b0a9af14ace8f
+231	1923	6824032616481219	CMakeFiles/Projeto_POO.dir/Carro.cpp.obj	f206e8b569355f45
+11	1284	6824033195725870	CMakeFiles/Projeto_POO.dir/Moto.cpp.obj	c1acd478935b0e34
+1295	1496	6824045827154899	Projeto_POO.exe	56a2e2696812c76d
+3	725	6826123139297249	CMakeFiles/Projeto_POO.dir/Cliente.cpp.obj	79ae1d2ce493bce4
+22	756	6826123140139316	CMakeFiles/Projeto_POO.dir/Carro.cpp.obj	d4ef17353705c3d0
+42	786	6826123140627112	CMakeFiles/Projeto_POO.dir/Pedido.cpp.obj	fcd44f79ad0a7213
+82	790	6826123140492225	CMakeFiles/Projeto_POO.dir/Moto.cpp.obj	47acae197f246225
+122	848	6826123141267723	CMakeFiles/Projeto_POO.dir/Veiculos.cpp.obj	3c88836fc086e849
+157	1124	6826123144044041	CMakeFiles/Projeto_POO.dir/main.cpp.obj	9323ccd1f37798e7
+1124	1364	6826123146412909	Projeto_POO.exe	56a2e2696812c76d
+3	585	6826125125898941	CMakeFiles/Projeto_POO.dir/main.cpp.obj	9323ccd1f37798e7
+586	821	6826125128243131	Projeto_POO.exe	56a2e2696812c76d
