@@ -1,6 +1,4 @@
-//
-// Created by Thiago Aciole on 15/08/2022.
-//
+
 
 #include "Carro.h"
 #include "Veiculos.h"
